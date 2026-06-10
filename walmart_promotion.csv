@@ -1,0 +1,25 @@
+promotion_id,product_id,product_name,category,promotion_type,promotion_text,regular_price,promo_price
+PM001,WMG001,Great Value Tomato Ketchup,Grocery,ROLLBACK,"Rollback",2.98,2.48
+PM002,WMG003,Great Value Whole Kernel Corn,Grocery,MULTIBUY,"4 for $3",0.88,0.75
+PM003,WMG007,Great Value Kidney Beans,Grocery,BUY_X_GET_Y,"Buy 2 Get 1 Free",1.22,
+PM004,WMG011,Heinz Tomato Ketchup,Grocery,PERCENT_DISCOUNT,"15% Off",4.48,3.81
+PM005,WMG013,Bush's Best Baked Beans,Grocery,SAVE_AMOUNT,"Save $0.50",2.48,1.98
+PM006,WMG014,Del Monte Sweet Corn,Grocery,MULTIBUY,"3 for $4",1.48,1.33
+PM007,WMT001,Hot Wheels 5-Car Pack,Toys & Outdoor Play,SAVE_AMOUNT,"Save $1",5.97,4.97
+PM008,WMT003,NERF Elite Disruptor,Toys & Outdoor Play,PERCENT_DISCOUNT,"20% Off",12.97,10.38
+PM009,WMT005,LEGO Classic Medium Creative Brick Box,Toys & Outdoor Play,PERCENT_DISCOUNT,"15% Off",29.97,25.47
+PM010,WMT008,Barbie Fashionistas Doll,Toys & Outdoor Play,ROLLBACK,"Rollback",9.97,7.97
+PM011,WMT013,UNO Card Game,Toys & Outdoor Play,MULTIBUY,"2 for $9",5.48,4.50
+PM012,WMT015,Monopoly Classic Board Game,Toys & Outdoor Play,SAVE_AMOUNT,"Save $3",19.97,16.97
+PM013,WMH003,Clorox Disinfecting Wipes,Household Essentials,SAVE_AMOUNT,"Save $1",4.97,3.97
+PM014,WMH005,Tide Original Liquid Laundry Detergent,Household Essentials,PERCENT_DISCOUNT,"20% Off",12.97,10.38
+PM015,WMH007,Bounty Select-A-Size Paper Towels,Household Essentials,ROLLBACK,"Rollback",12.98,10.98
+PM016,WMH009,Lysol Disinfectant Spray,Household Essentials,SAVE_AMOUNT,"Save $1",5.97,4.97
+PM017,WMH011,Febreze Air Freshener,Household Essentials,MULTIBUY,"2 for $7",3.97,3.50
+PM018,WMH014,Ziploc Storage Bags,Household Essentials,PERCENT_DISCOUNT,"10% Off",8.97,8.07
+PM019,WME001,onn. 4K Streaming Box,Electronics,SAVE_AMOUNT,"Save $5",19.88,14.88
+PM020,WME003,Apple AirPods 4,Electronics,PERCENT_DISCOUNT,"10% Off",129.00,116.10
+PM021,WME005,JBL Tune 510BT Wireless Headphones,Electronics,ROLLBACK,"Rollback",39.95,34.95
+PM022,WME008,Amazon Fire HD 10 Tablet,Electronics,SAVE_AMOUNT,"Save $20",139.99,119.99
+PM023,WME010,Logitech M185 Wireless Mouse,Electronics,MULTIBUY,"2 for $25",14.99,12.50
+PM024,WME014,JBL Go 4 Portable Bluetooth Speaker,Electronics,PERCENT_DISCOUNT,"15% Off",49.99,42.49

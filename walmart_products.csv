@@ -1,0 +1,61 @@
+product_id,product_name,brand,category,package_type,size
+WMG001,Great Value Tomato Ketchup,Great Value,Grocery,Bottle,38 oz
+WMG002,Great Value Yellow Mustard,Great Value,Grocery,Bottle,20 oz
+WMG003,Great Value Whole Kernel Corn,Great Value,Grocery,Can,15 oz
+WMG004,Great Value Sweet Peas,Great Value,Grocery,Can,15 oz
+WMG005,Great Value Black Beans,Great Value,Grocery,Can,15.5 oz
+WMG006,Great Value Pinto Beans,Great Value,Grocery,Can,15.5 oz
+WMG007,Great Value Kidney Beans,Great Value,Grocery,Can,15.5 oz
+WMG008,Great Value Dill Pickle Spears,Great Value,Grocery,Jar,24 oz
+WMG009,Great Value Sweet Relish,Great Value,Grocery,Jar,10 oz
+WMG010,Great Value Banana Pepper Rings,Great Value,Grocery,Jar,12 oz
+WMG011,Heinz Tomato Ketchup,Heinz,Grocery,Bottle,32 oz
+WMG012,French's Classic Yellow Mustard,French's,Grocery,Bottle,20 oz
+WMG013,Bush's Best Baked Beans,Bush's,Grocery,Can,16 oz
+WMG014,Del Monte Sweet Corn,Del Monte,Grocery,Can,15.25 oz
+WMG015,Green Giant Sweet Peas,Green Giant,Grocery,Can,15 oz
+WMT001,Hot Wheels 5-Car Pack,Hot Wheels,Toys & Outdoor Play,Box,5 Cars
+WMT002,Hot Wheels Basic Vehicle,Hot Wheels,Toys & Outdoor Play,Blister Pack,1 Car
+WMT003,NERF Elite Disruptor,Nerf,Toys & Outdoor Play,Box,1 Unit
+WMT004,NERF Super Soaker Hydro Burst,Nerf,Toys & Outdoor Play,Box,1 Unit
+WMT005,LEGO Classic Medium Creative Brick Box,LEGO,Toys & Outdoor Play,Box,484 Pieces
+WMT006,LEGO Creator 3-in-1 Deep Sea Creatures,LEGO,Toys & Outdoor Play,Box,230 Pieces
+WMT007,Barbie Dreamtopia Doll,Barbie,Toys & Outdoor Play,Box,1 Unit
+WMT008,Barbie Fashionistas Doll,Barbie,Toys & Outdoor Play,Box,1 Unit
+WMT009,Play-Doh Fun Factory Starter Set,Play-Doh,Toys & Outdoor Play,Box,1 Unit
+WMT010,Play-Doh Modeling Compound 10-Pack,Play-Doh,Toys & Outdoor Play,Pack,10 Cans
+WMT011,Little Tikes Easy Score Basketball Set,Little Tikes,Toys & Outdoor Play,Box,1 Unit
+WMT012,Little Tikes Cozy Coupe,Little Tikes,Toys & Outdoor Play,Box,1 Unit
+WMT013,UNO Card Game,Mattel,Toys & Outdoor Play,Card Pack,112 Cards
+WMT014,Jenga Classic Game,Hasbro,Toys & Outdoor Play,Box,54 Blocks
+WMT015,Monopoly Classic Board Game,Hasbro,Toys & Outdoor Play,Box,1 Unit
+WMH001,Great Value Paper Towels 6 Double Rolls,Great Value,Household Essentials,Pack,6 Rolls
+WMH002,Great Value Ultra Strong Bath Tissue 12 Rolls,Great Value,Household Essentials,Pack,12 Rolls
+WMH003,Clorox Disinfecting Wipes,Clorox,Household Essentials,Tub,75 Count
+WMH004,Dawn Ultra Dishwashing Liquid,Dawn,Household Essentials,Bottle,24 oz
+WMH005,Tide Original Liquid Laundry Detergent,Tide,Household Essentials,Bottle,92 oz
+WMH006,Gain Original Liquid Detergent,Gain,Household Essentials,Bottle,88 oz
+WMH007,Bounty Select-A-Size Paper Towels,Bounty,Household Essentials,Pack,6 Rolls
+WMH008,Charmin Ultra Soft Bath Tissue,Charmin,Household Essentials,Pack,12 Rolls
+WMH009,Lysol Disinfectant Spray,Lysol,Household Essentials,Can,19 oz
+WMH010,Swiffer WetJet Starter Kit,Swiffer,Household Essentials,Box,1 Kit
+WMH011,Febreze Air Freshener,Febreze,Household Essentials,Can,8.8 oz
+WMH012,Mr. Clean Magic Eraser,Mr. Clean,Household Essentials,Pack,6 Count
+WMH013,Glad Tall Kitchen Trash Bags,Glad,Household Essentials,Box,80 Bags
+WMH014,Ziploc Storage Bags,Ziploc,Household Essentials,Box,100 Bags
+WMH015,Scotch-Brite Heavy Duty Scrub Sponge,Scotch-Brite,Household Essentials,Pack,6 Count
+WME001,onn. 4K Streaming Box,onn.,Electronics,Box,1 Unit
+WME002,onn. Roku Smart TV 32 Inch,onn.,Electronics,Box,32 Inch
+WME003,Apple AirPods 4,Apple,Electronics,Box,1 Pair
+WME004,Samsung Galaxy Tab A9+,Samsung,Electronics,Box,11 Inch
+WME005,JBL Tune 510BT Wireless Headphones,JBL,Electronics,Box,1 Unit
+WME006,Apple iPad 10th Generation,Apple,Electronics,Box,10.9 Inch
+WME007,Samsung Galaxy Buds FE,Samsung,Electronics,Box,1 Pair
+WME008,Amazon Fire HD 10 Tablet,Amazon,Electronics,Box,10.1 Inch
+WME009,Roku Express HD Streaming Device,Roku,Electronics,Box,1 Unit
+WME010,Logitech M185 Wireless Mouse,Logitech,Electronics,Blister Pack,1 Unit
+WME011,HP Wireless Keyboard and Mouse Combo,HP,Electronics,Box,1 Set
+WME012,SanDisk Ultra 128GB microSD Card,SanDisk,Electronics,Blister Pack,128 GB
+WME013,Anker USB-C Charger 20W,Anker,Electronics,Box,20W
+WME014,JBL Go 4 Portable Bluetooth Speaker,JBL,Electronics,Box,1 Unit
+WME015,Sony WH-CH520 Wireless Headphones,Sony,Electronics,Box,1 Unit

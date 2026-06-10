@@ -1,0 +1,61 @@
+price_id,product_id,product_name,category,store_id,effective_date,regular_price,currency
+PR001,WMG001,Great Value Tomato Ketchup,Grocery,WM001,2026-01-01,2.98,USD
+PR002,WMG002,Great Value Yellow Mustard,Grocery,WM001,2026-01-01,1.28,USD
+PR003,WMG003,Great Value Whole Kernel Corn,Grocery,WM001,2026-01-01,0.88,USD
+PR004,WMG004,Great Value Sweet Peas,Grocery,WM001,2026-01-01,0.94,USD
+PR005,WMG005,Great Value Black Beans,Grocery,WM001,2026-01-01,1.18,USD
+PR006,WMG006,Great Value Pinto Beans,Grocery,WM001,2026-01-01,1.18,USD
+PR007,WMG007,Great Value Kidney Beans,Grocery,WM001,2026-01-01,1.22,USD
+PR008,WMG008,Great Value Dill Pickle Spears,Grocery,WM001,2026-01-01,2.48,USD
+PR009,WMG009,Great Value Sweet Relish,Grocery,WM001,2026-01-01,1.88,USD
+PR010,WMG010,Great Value Banana Pepper Rings,Grocery,WM001,2026-01-01,2.12,USD
+PR011,WMG011,Heinz Tomato Ketchup,Grocery,WM001,2026-01-01,4.48,USD
+PR012,WMG012,French's Classic Yellow Mustard,Grocery,WM001,2026-01-01,2.98,USD
+PR013,WMG013,Bush's Best Baked Beans,Grocery,WM001,2026-01-01,2.48,USD
+PR014,WMG014,Del Monte Sweet Corn,Grocery,WM001,2026-01-01,1.48,USD
+PR015,WMG015,Green Giant Sweet Peas,Grocery,WM001,2026-01-01,1.58,USD
+PR016,WMT001,Hot Wheels 5-Car Pack,Toys & Outdoor Play,WM001,2026-01-01,5.97,USD
+PR017,WMT002,Hot Wheels Basic Vehicle,Toys & Outdoor Play,WM001,2026-01-01,1.18,USD
+PR018,WMT003,NERF Elite Disruptor,Toys & Outdoor Play,WM001,2026-01-01,12.97,USD
+PR019,WMT004,NERF Super Soaker Hydro Burst,Toys & Outdoor Play,WM001,2026-01-01,14.97,USD
+PR020,WMT005,LEGO Classic Medium Creative Brick Box,Toys & Outdoor Play,WM001,2026-01-01,29.97,USD
+PR021,WMT006,LEGO Creator 3-in-1 Deep Sea Creatures,Toys & Outdoor Play,WM001,2026-01-01,14.97,USD
+PR022,WMT007,Barbie Dreamtopia Doll,Toys & Outdoor Play,WM001,2026-01-01,10.97,USD
+PR023,WMT008,Barbie Fashionistas Doll,Toys & Outdoor Play,WM001,2026-01-01,9.97,USD
+PR024,WMT009,Play-Doh Fun Factory Starter Set,Toys & Outdoor Play,WM001,2026-01-01,8.97,USD
+PR025,WMT010,Play-Doh Modeling Compound 10-Pack,Toys & Outdoor Play,WM001,2026-01-01,7.97,USD
+PR026,WMT011,Little Tikes Easy Score Basketball Set,Toys & Outdoor Play,WM001,2026-01-01,49.97,USD
+PR027,WMT012,Little Tikes Cozy Coupe,Toys & Outdoor Play,WM001,2026-01-01,64.97,USD
+PR028,WMT013,UNO Card Game,Toys & Outdoor Play,WM001,2026-01-01,5.48,USD
+PR029,WMT014,Jenga Classic Game,Toys & Outdoor Play,WM001,2026-01-01,14.97,USD
+PR030,WMT015,Monopoly Classic Board Game,Toys & Outdoor Play,WM001,2026-01-01,19.97,USD
+PR031,WMH001,Great Value Paper Towels 6 Double Rolls,Household Essentials,WM001,2026-01-01,7.98,USD
+PR032,WMH002,Great Value Ultra Strong Bath Tissue 12 Rolls,Household Essentials,WM001,2026-01-01,8.98,USD
+PR033,WMH003,Clorox Disinfecting Wipes,Household Essentials,WM001,2026-01-01,4.97,USD
+PR034,WMH004,Dawn Ultra Dishwashing Liquid,Household Essentials,WM001,2026-01-01,3.94,USD
+PR035,WMH005,Tide Original Liquid Laundry Detergent,Household Essentials,WM001,2026-01-01,12.97,USD
+PR036,WMH006,Gain Original Liquid Detergent,Household Essentials,WM001,2026-01-01,11.97,USD
+PR037,WMH007,Bounty Select-A-Size Paper Towels,Household Essentials,WM001,2026-01-01,12.98,USD
+PR038,WMH008,Charmin Ultra Soft Bath Tissue,Household Essentials,WM001,2026-01-01,13.98,USD
+PR039,WMH009,Lysol Disinfectant Spray,Household Essentials,WM001,2026-01-01,5.97,USD
+PR040,WMH010,Swiffer WetJet Starter Kit,Household Essentials,WM001,2026-01-01,24.97,USD
+PR041,WMH011,Febreze Air Freshener,Household Essentials,WM001,2026-01-01,3.97,USD
+PR042,WMH012,Mr. Clean Magic Eraser,Household Essentials,WM001,2026-01-01,5.48,USD
+PR043,WMH013,Glad Tall Kitchen Trash Bags,Household Essentials,WM001,2026-01-01,14.97,USD
+PR044,WMH014,Ziploc Storage Bags,Household Essentials,WM001,2026-01-01,8.97,USD
+PR045,WMH015,Scotch-Brite Heavy Duty Scrub Sponge,Household Essentials,WM001,2026-01-01,4.48,USD
+PR046,WME001,onn. 4K Streaming Box,Electronics,WM001,2026-01-01,19.88,USD
+PR047,WME002,onn. Roku Smart TV 32 Inch,Electronics,WM001,2026-01-01,88.00,USD
+PR048,WME003,Apple AirPods 4,Electronics,WM001,2026-01-01,129.00,USD
+PR049,WME004,Samsung Galaxy Tab A9+,Electronics,WM001,2026-01-01,219.00,USD
+PR050,WME005,JBL Tune 510BT Wireless Headphones,Electronics,WM001,2026-01-01,39.95,USD
+PR051,WME006,Apple iPad 10th Generation,Electronics,WM001,2026-01-01,349.00,USD
+PR052,WME007,Samsung Galaxy Buds FE,Electronics,WM001,2026-01-01,79.99,USD
+PR053,WME008,Amazon Fire HD 10 Tablet,Electronics,WM001,2026-01-01,139.99,USD
+PR054,WME009,Roku Express HD Streaming Device,Electronics,WM001,2026-01-01,29.99,USD
+PR055,WME010,Logitech M185 Wireless Mouse,Electronics,WM001,2026-01-01,14.99,USD
+PR056,WME011,HP Wireless Keyboard and Mouse Combo,Electronics,WM001,2026-01-01,29.99,USD
+PR057,WME012,SanDisk Ultra 128GB microSD Card,Electronics,WM001,2026-01-01,16.99,USD
+PR058,WME013,Anker USB-C Charger 20W,Electronics,WM001,2026-01-01,19.99,USD
+PR059,WME014,JBL Go 4 Portable Bluetooth Speaker,Electronics,WM001,2026-01-01,49.99,USD
+PR060,WME015,Sony WH-CH520 Wireless Headphones,Electronics,WM001,2026-01-01,59.99,USD
